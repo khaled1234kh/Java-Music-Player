@@ -32,7 +32,8 @@ Built entirely in Java, this project helped solidify key skills in **object-orie
 
 ## 🖼️ Player UI Preview
 
-<img width="2559" height="1439" alt="Screenshot 2025-07-19 154242" src="https://github.com/user-attachments/assets/2a8566b9-9eb2-40c3-9365-5da023770843" />
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/ad5f4ef7-8512-4e9f-8391-60064a429af1" />
+
 
 
 ![Player Preview](https://github.com/user-attachments/assets/preview-musicplayer.gif)
